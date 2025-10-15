@@ -42,7 +42,7 @@ Tutaj trzymam swoje najsmaczniejsze kąski. Śmiało, spróbuj!
 
 Jak widać, rzadko sypiam. Zbyt dużo kodu do napisania.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirrel4life&show_icons=true&theme=gruvbox_dark&hide_border=true&locale=pl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirrel4life&show_icons=true&theme=dark&hide_border=true&locale=pl)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -99,7 +99,7 @@ Here's where I keep my tastiest creations. Go on, have a taste!
 
 As you can see, I rarely sleep. Too much code to write.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirrel4life&show_icons=true&theme=gruvbox_dark&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirrel4life&show_icons=true&theme=dark&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

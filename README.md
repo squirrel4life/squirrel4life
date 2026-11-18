@@ -7,7 +7,7 @@ Zapuściłeś się w głąb lasu i trafiłeś do mojej jaskini. Nie bój się, r
 Jestem niedźwiedziem, który zamienił polowanie na łososie na polowanie na błędy w kodzie. Zamiast przygotowywać się do snu zimowego, siedzę przy kompilatorze z kubkiem mocnej kawy (miód się skończył).
 
 > **A dlaczego `squirrel4life`?**
-> Cóż, każdy niedźwiedź ma swoje słabości. Moja to wiewiórki i ich... zwinne algorytmy sortowania orzechów. Z jedną z nich ja się nawet zamierzam ożenić! Długa historia.
+> Cóż, każdy niedźwiedź ma swoje słabości. Moja to wiewiórki i ich... zwinne algorytmy sortowania orzechów. Z jedną z nich ja się nawet ożeniłem! Długa historia.
 
 ---
 
@@ -64,7 +64,7 @@ You've wandered deep into the woods and stumbled upon my cave. Don't worry, I ra
 I'm a bear who traded hunting for salmon for hunting for bugs. Instead of preparing for winter hibernation, I'm sitting by the compiler with a strong cup of coffee (I'm all out of honey).
 
 > **So, why `squirrel4life`?**
-> Well, every bear has a soft spot. Mine is for squirrels and their... agile nut-sorting algorithms. I'm even gonna marry one of them! It's a long story.
+> Well, every bear has a soft spot. Mine is for squirrels and their... agile nut-sorting algorithms. I even married one of them! It's a long story.
 
 ---
 
